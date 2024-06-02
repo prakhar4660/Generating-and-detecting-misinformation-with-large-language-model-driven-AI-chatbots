@@ -1,0 +1,14 @@
+Calculated Metrics:
+-------------------
+Precision (False): 0.5116
+Recall (False): 0.8505
+F1-score (False): 0.6389
+Precision (True): 0.9233
+Recall (True): 0.6828
+F1-score (True): 0.7850
+Precision (Mixture): 0.4310
+Recall (Mixture): 0.2488
+F1-score (Mixture): 0.3155
+Precision (Unproven): 0.2759
+Recall (Unproven): 0.1778
+F1-score (Unproven): 0.2162
